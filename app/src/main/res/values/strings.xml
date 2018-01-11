@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CatChat</string>
+    <string name="user_name">spot@catchat.com</string>
+    <string name="nav_inbox">Входящие</string>
+    <string name="nav_drafts">Черновики</string>
+    <string name="nav_sent">Отправленные</string>
+    <string name="nav_trash">Корзина</string>
+    <string name="nav_support">Поддержка</string>
+    <string name="nav_help">Помощь</string>
+    <string name="nav_feedback">Обратная связь</string>
+</resources>
